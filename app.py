@@ -9,7 +9,7 @@ from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
-DATABASE_URL = "postgresql://altagrasa:pinkelephant@localhost:5432/altagrasa"
+DATABASE_URL = ""
 database = Database(DATABASE_URL)
 
 app = FastAPI()
