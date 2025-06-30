@@ -1,4 +1,4 @@
-# Server-Side Rendering with FastAPI & Jinja2
+# No JS, No overhead Server-Side Rendering with FastAPI & Jinja2
 
 <div align="center">
   
