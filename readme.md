@@ -27,6 +27,12 @@ Certain components of the *Full Stagnable Archive* project are being reimagined 
 
 ---
 
+📸 Preview
+<div align="center">
+  <img src="./screenshots/screenshot.png" alt="Apple-inspired product page" width="600" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+  <p><em>Clean, minimalist product page rendered server-side with zero JavaScript</em></p>
+</div>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
